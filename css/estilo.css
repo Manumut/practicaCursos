@@ -38,10 +38,25 @@ header#header{
             }
 
         }
+
+        button.navbar-toggler{
+            border: none;
+        }
     }
 }
 
+section#buscador{
 
+    background: url(../img/img/shutterstock_253495648.jpg) no-repeat 20% center / cover fixed;
+    .row{
+        min-height: 40vh;
+        align-items: center;
+
+
+    }
+
+
+}
 
 
 
